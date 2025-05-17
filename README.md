@@ -1,7 +1,7 @@
 <div align="center"> 
 <h2>Views<br><br>
 <img src="https://profile-counter.glitch.me/raicug/count.svg"></h2> 
-</div>
+</div> 
 
 <div align=center>
 
