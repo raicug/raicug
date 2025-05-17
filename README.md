@@ -23,7 +23,3 @@
 | Contributions | Average productivity |
 | --- | --- |
 | ![Github contribuinte](https://github-readme-streak-stats-8equ.vercel.app?user=raicug&theme=chartreuse-dark) | ![Produtividade_media](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raicug&theme=chartreuse_dark&gmt) |
-
-## Trophies
-
-![Trophys](https://github-trophies.vercel.app/?username=raicug&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
