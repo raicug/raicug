@@ -2,6 +2,8 @@
 - C/C++ developer focused on low-level programming and performance
 - Build projects from scratch to understand how things work under the hood
 - Interested in systems, engines, and how software interacts with hardware
+- Also use TypeScript, HTML, and CSS for web-based projects
+- Basic experience with Java and a decent understanding of reverse engineering
 - Prefer practical experimentation over theory - build, break, fix, repeat
 - Constantly improving code quality, structure, and efficiency
 
