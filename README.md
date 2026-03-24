@@ -1,3 +1,10 @@
+## About Me
+- C/C++ developer focused on low-level programming and performance
+- Build projects from scratch to understand how things work under the hood
+- Interested in systems, engines, and how software interacts with hardware
+- Prefer practical experimentation over theory - build, break, fix, repeat
+- Constantly improving code quality, structure, and efficiency
+
 ## GitHub Stats
 
 <div align="center">
