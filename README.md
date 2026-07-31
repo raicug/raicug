@@ -12,7 +12,7 @@ C/C++ developer focused on low-level programming and performance. I like buildin
 
 ## Projects
 
-- **[luna](https://github.com/raicug/luna)** - early-stage c++20 luau binding library
+- **[luna](https://github.com/raicug/luna)** - early-stage C++20 Luau binding library
 - **[farcal-framework](https://github.com/raicug/farcal-framework)** - early-stage C++20 immediate-mode UI framework for Windows, with a Win32 window layer and DirectX 10/11 backends
 - **[farcal-engine](https://github.com/raicug/farcal-engine)** *(archive)* - educational game engine project
 - **[Q-LIT](https://github.com/raicug/Q-LIT)** *(archive)* - header-only C++ utility that obfuscates string literals at compile time using XOR encoding
