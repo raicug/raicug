@@ -20,9 +20,25 @@ C/C++ developer focused on low-level programming and performance. I like buildin
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=raicug&show_icons=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raicug&layout=compact&langs_count=8)
-
+<div align="center">
+  <a href="https://github-stats-extended.vercel.app/api?username=raicug">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=raicug&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=raicug&theme=light_github" />
+  </picture>
+</a>
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=raicug&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=raicug&langs_count=4&theme=light_github" alt="Top Langs" />
+  </picture>
+</div>
+  
 ## License / Use
 
 Unless stated otherwise in a specific repo, my code is MIT licensed. Credit is appreciated if you use my work, but not required.
